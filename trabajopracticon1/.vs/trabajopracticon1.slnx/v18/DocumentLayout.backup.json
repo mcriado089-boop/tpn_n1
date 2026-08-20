@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\giv\\tpn_n1\\trabajopracticon1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67BDF6A4-85D5-4B84-88BF-AC783CF8A270}|ejercicio5\\ejercicio5.csproj|c:\\giv\\tpn_n1\\trabajopracticon1\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BDF6A4-85D5-4B84-88BF-AC783CF8A270}|ejercicio5\\ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\giv\\tpn_n1\\trabajopracticon1\\ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio5\\Program.cs",
+              "ToolTip": "C:\\giv\\tpn_n1\\trabajopracticon1\\ejercicio5\\Program.cs",
+              "RelativeToolTip": "ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T20:41:45.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
