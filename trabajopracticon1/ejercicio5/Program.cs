@@ -24,7 +24,7 @@ namespace ejercicio5
             resultado = cantidadhora * preciodehora;
 
             Console.WriteLine($" el total a pagar es:${resultado.ToString("F2")}");
-            //FALTA TERMINAR EL 6
+            //FALTA TERMINAR EL 
 
         }
     }
