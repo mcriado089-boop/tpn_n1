@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\giv\\tpn_n1\\trabajopracticon1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E264DF69-13B5-485F-8D8D-FD57D20DC888}|EJERCICIO7\\EJERCICIO7.csproj|c:\\giv\\tpn_n1\\trabajopracticon1\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E264DF69-13B5-485F-8D8D-FD57D20DC888}|EJERCICIO7\\EJERCICIO7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4B2C6D2-0B94-4833-A406-87760A3876F8}|ejercicio3\\ejercicio3.csproj|c:\\giv\\tpn_n1\\trabajopracticon1\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4B2C6D2-0B94-4833-A406-87760A3876F8}|ejercicio3\\ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,18 +32,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\giv\\tpn_n1\\trabajopracticon1\\EJERCICIO7\\Program.cs",
+              "RelativeDocumentMoniker": "EJERCICIO7\\Program.cs",
+              "ToolTip": "C:\\giv\\tpn_n1\\trabajopracticon1\\EJERCICIO7\\Program.cs*",
+              "RelativeToolTip": "EJERCICIO7\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T03:58:31.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\giv\\tpn_n1\\trabajopracticon1\\ejercicio3\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio3\\Program.cs",
               "ToolTip": "C:\\giv\\tpn_n1\\trabajopracticon1\\ejercicio3\\Program.cs",
               "RelativeToolTip": "ejercicio3\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T03:17:12.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\giv\\tpn_n1\\trabajopracticon1\\ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio2\\Program.cs",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\giv\\tpn_n1\\trabajopracticon1\\EJERCICIO1\\Program.cs",
               "RelativeDocumentMoniker": "EJERCICIO1\\Program.cs",

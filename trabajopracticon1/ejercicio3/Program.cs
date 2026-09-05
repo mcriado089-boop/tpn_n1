@@ -30,9 +30,6 @@ namespace ejercicio3
 
 
 
-
-
-
         }
     }
 }

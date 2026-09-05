@@ -10,6 +10,18 @@ namespace EJERCICIO7
     {
         static void Main(string[] args)
         {
+            int edad = 0;
+           
+
+
+            Console.WriteLine("ingrese su edad");
+            edad =int.Parse(Console.ReadLine());
+
+            int diasvividos = edad * 365;
+           
+
+            Console.WriteLine($"usted vivio en dias aproximado {diasvividos}");
+
         }
     }
 }
