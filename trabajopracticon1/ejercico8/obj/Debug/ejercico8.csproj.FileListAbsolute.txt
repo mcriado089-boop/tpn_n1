@@ -1,0 +1,7 @@
+C:\giv\tpn_n1\trabajopracticon1\ejercico8\bin\Debug\ejercico8.exe.config
+C:\giv\tpn_n1\trabajopracticon1\ejercico8\bin\Debug\ejercico8.exe
+C:\giv\tpn_n1\trabajopracticon1\ejercico8\bin\Debug\ejercico8.pdb
+C:\giv\tpn_n1\trabajopracticon1\ejercico8\obj\Debug\ejercico8.csproj.AssemblyReference.cache
+C:\giv\tpn_n1\trabajopracticon1\ejercico8\obj\Debug\ejercico8.csproj.CoreCompileInputs.cache
+C:\giv\tpn_n1\trabajopracticon1\ejercico8\obj\Debug\ejercico8.exe
+C:\giv\tpn_n1\trabajopracticon1\ejercico8\obj\Debug\ejercico8.pdb
